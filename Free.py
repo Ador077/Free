@@ -140,7 +140,7 @@ def main():
 	if Adi in ('2', '02'):
 		__filecrack3__().plerr()
 	if Adi in ('3', '03'):
-		os.system("xdg-open https://youtube.com/@Learnwithshuvo928")
+		os.system("xdg-open https://www.facebook.com/ft.alvi.18")
 	if Adi in ('0', '00'):
 		exit('THANKS FOR USING FIRE TOOL')  
 	else:
@@ -495,7 +495,7 @@ banner = """
 ║[•] Github     : github.com/ACTION-FIRE ║
 ║[•] Status    	: Premium                ║
 ║[•] Network    : 3G, 4G/5G, ON          ║
-║[•] Version  	: V:2.0 MAX              ║
+║[•] Version  	: V:2.0                  ║
 ║[•] Tools    	: F/i/l/e Cloning        ║
 ║════════════════════════════════════════║
 ║════════════════════════════════════════║
