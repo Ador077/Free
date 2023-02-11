@@ -490,13 +490,13 @@ banner = """
                                                          
                                                                                                                                             
 ╔════════════════════════════════════════╗
-║[•] Author     : Ft Alvi                ║      
-║[•] Facebook   : facebook.com/ft.alvi.18║ 
+║[•] Author     : ACTION-FIRE            ║      
+║[•] Facebook   : Ft Alvi                ║ 
 ║[•] Github     : github.com/ACTION-FIRE ║
 ║[•] Status    	: Premium                ║
 ║[•] Network    : 3G, 4G/5G, ON          ║
-║[•] Version  	: V:2.0                  ║
-║[•] Tools    	: File Cloning           ║
+║[•] Version  	: V:2.0 MAX              ║
+║[•] Tools    	: F/i/l/e Cloning        ║
 ║════════════════════════════════════════║
 ║════════════════════════════════════════║
 ║              Alvi MENU [👑]            ║
